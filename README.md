@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PiKu2007S
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML,CSS,JavaScript,Python and PHP
+- 👀 I’m interested in Web Development/Programming
+- 🌱 I’m currently learning C, C++, Python and PHP
 - 📫 Reach me on Discord using my Discord I'd PiKu2007S#1004
 
 <!---
