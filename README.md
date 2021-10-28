@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PiKu2007S
-- 👀 I’m interested in Web Development/Programming
+- 👀 I’m interested in Web Development and Software Development
 - 🌱 I’m currently learning JavaScript and C
 - 📫 Reach me on Discord using my Discord I'd PiKu2007S#1004
 
